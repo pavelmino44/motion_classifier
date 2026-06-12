@@ -36,3 +36,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Исходники:
+
+- data_analysis.ipynb -- исследуем данные и ищем решения
+- move_classifier.ipynb -- конечная версия классификатора
+
