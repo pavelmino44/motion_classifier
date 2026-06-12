@@ -21,10 +21,12 @@ python -m venv .venv
 4. **Активируйте окружение:**
 
     Windows:
+   
 ```bash
 .venv\Scripts\activate
 ```
     macOS / Linux:
+    
 ```bash
 source .venv/bin/activate
 ```
