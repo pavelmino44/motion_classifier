@@ -41,3 +41,10 @@ pip install -r requirements.txt
 - data_analysis.ipynb -- исследуем данные и ищем решения
 - move_classifier.ipynb -- конечная версия классификатора
 
+## Авторы
+
+- kesh371581@gmail.com
+- artemkuzn05@gmail.com
+- sichev.nikita756@gmail.com
+- pavelmino44@gmail.com
+
